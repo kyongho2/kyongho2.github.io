@@ -1,7 +1,7 @@
 ---
-title: Home
+title: 홈
 ---
 
-# Welcome to Kyongho Lee’s website
+# 이경호 웹사이트에 오신 것을 환영합니다!
 
 이 사이트는 개발 환경 구성을 위한 가이드를 제공합니다.
