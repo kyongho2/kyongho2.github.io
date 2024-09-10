@@ -3,4 +3,3 @@ nav:
     - ... | index*.md
     - Guides: guides
     - Books: books
-    - Release Notes: release_notes
