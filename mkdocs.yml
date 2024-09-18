@@ -3,7 +3,7 @@ site_name: "205"
 site_url: "https://kyongho2.github.io/"
 docs_dir: "docs"
 repo_url: https://github.com/kyongho2/kyongho2.github.io
-repo_name: kyongho2/documentation
+repo_name: kyongho2.github.io
 edit_uri: "edit/main/docs/"
 
 theme:
