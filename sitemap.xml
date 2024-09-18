@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://kyongho2.github.io/</loc>
+        <lastmod>2024-09-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/books/</loc>
+        <lastmod>2024-09-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/books/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/books/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/</loc>
+        <lastmod>2024-09-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/</loc>
+        <lastmod>2024-09-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/books/</loc>
+        <lastmod>2024-09-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/books/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/books/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/</loc>
+        <lastmod>2024-09-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/"/>
+    </url>
+</urlset>
