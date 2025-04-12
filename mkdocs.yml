@@ -28,13 +28,13 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: black
+      primary: custom
     - scheme: slate
       media: "(prefers-color-scheme: dark)"
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: black
+      primary: custom
 
 markdown_extensions:
   - abbr
@@ -64,6 +64,7 @@ markdown_extensions:
   - meta
 
 plugins:
+  - blog
   - search
   - awesome-pages
   - i18n:

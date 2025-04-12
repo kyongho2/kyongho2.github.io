@@ -2,6 +2,9 @@
 title: Home
 ---
 
-# Welcome to Kyongho Lee’s website
+# Welcome!
 
-This site provides guidance for configuring a development environment.
+Hello, and welcome to the personal website of **Kyongho Lee**.
+Here you'll find my projects, technical blog posts, and various resources related to software engineering.
+This space is dedicated to learning, sharing, and growth.
+Thank you for visiting!
