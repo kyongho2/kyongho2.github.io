@@ -38,26 +38,6 @@ sudo dnf update -y
 
 ---
 
-## 🇰🇷 한글 입력기 설정
-
-### ibus-hangul 설치
-
-```bash
-sudo dnf install -y ibus-hangul
-```
-
-### 입력기 설정
-
-1. **Settings > Keyboard > Input Sources**로 이동
-2. **“+” 버튼** 클릭 후 `Korean` 검색
-3. `Korean (Hangul)` 선택 후 추가
-4. 항목 옆 **톱니바퀴 아이콘** 클릭
-5. **Hangul Toggle Key** 항목에서 `ISO_Level3_Shift` 선택
-
-> 💡 일반적으로 오른쪽 Alt 키(Right Alt/AltGr)가 이 키로 설정됩니다.
-
----
-
 ## 🔌 Logitech 무선 리시버 설정
 
 ### EPEL 저장소 추가

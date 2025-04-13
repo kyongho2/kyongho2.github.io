@@ -1,36 +1,36 @@
 ---
-title: Fcitx5 추가 팁
+title: Fcitx5 Additional Tips
 ---
 
-# 💡 Fcitx5 추가 팁
+# 💡 Fcitx5 Additional Tips
 
-## Chromium/Chrome 호환 문제 해결
+## Solving Chromium/Chrome Compatibility Issues
 
-Fcitx5는 Chrome 또는 Chromium 기반 브라우저에서 IBus보다 더 안정적으로 작동하는 경우가 많습니다. Chrome에서 입력기 인식이 안될 경우, Fcitx5로 전환하면 해결되는 경우가 많습니다.
+Fcitx5 generally works more reliably than IBus in Chrome or Chromium-based browsers. If your input method doesn't work properly in Chrome, switching to Fcitx5 often resolves the issue.
 
-## GNOME 환경에서 트레이 아이콘이 보이지 않을 경우
+## Tray Icon Not Showing in GNOME
 
-GNOME에서는 기본적으로 트레이 아이콘이 표시되지 않을 수 있습니다. 이 경우 `TopIcons Plus` 같은 확장을 설치하여 입력기 상태 표시 아이콘을 확인할 수 있습니다.
+GNOME may not display tray icons by default. To show the Fcitx5 input method icon, install a GNOME extension like `TopIcons Plus`.
 
-- [GNOME Extensions 사이트](https://extensions.gnome.org/)
-- 검색어: `TopIcons Plus`
+- [GNOME Extensions Site](https://extensions.gnome.org/)
+- Search for: `TopIcons Plus`
 
-## 테마 적용
+## Applying a Theme
 
-Fcitx5는 다양한 테마를 지원합니다. 예를 들어 `fcitx5-material-color` 테마를 설치하면 현대적이고 깔끔한 입력기 외형을 구성할 수 있습니다.
+Fcitx5 supports various themes. For example, you can install the `fcitx5-material-color` theme for a clean and modern UI.
 
-### 설치 예시:
+### Example Installation:
 
 ```bash
 git clone https://github.com/hosxy/Fcitx5-Material-Color ~/.local/share/fcitx5/themes/Fcitx5-Material-Color
 ```
 
-### 적용 방법:
+### How to Apply:
 
 ```bash
-fcitx5-configtool > Appearance 탭에서 테마 선택
+Open fcitx5-configtool > Go to the Appearance tab > Choose a theme
 ```
 
-## 입력기 전환 단축키 변경
+## Changing Input Method Switch Shortcuts
 
-기본 설정 외에 `Shift + Space`, `Hangul` 키 등으로 전환하고 싶다면 Fcitx5 설정 도구에서 단축키 탭을 통해 변경 가능합니다.
+To use keys like `Shift + Space` or the `Hangul` key for language switching, go to the "Hotkey" tab in the Fcitx5 configuration tool and customize as needed.

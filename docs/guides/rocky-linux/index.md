@@ -38,26 +38,6 @@ sudo dnf update -y
 
 ---
 
-## 🇰🇷 Korean Input Method Setup
-
-### Install ibus-hangul
-
-```bash
-sudo dnf install -y ibus-hangul
-```
-
-### Configure Input Source
-
-1. Go to **Settings > Keyboard > Input Sources**
-2. Click the **“+”** button and search for `Korean`
-3. Select and add `Korean (Hangul)`
-4. Click the **gear icon** next to the added input method
-5. Set **Hangul Toggle Key** to `ISO_Level3_Shift`
-
-> 💡 This is typically mapped to the Right Alt (AltGr) key.
-
----
-
 ## 🔌 Logitech Receiver Setup
 
 ### Add the EPEL repository
