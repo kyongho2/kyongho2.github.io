@@ -2,4 +2,4 @@
 nav:
     - ... | index*.md
     - Rocky Linux: rocky-linux
-    - Development Environment | dev-env
+    - Development Environment: dev-env
