@@ -1,9 +1,9 @@
 ---
-title: Installing Rocky Linux 9
+title: Rocky Linux 9 Installation
 ---
 
 
-# 🐧 Rocky Linux 9 Installation and Basic Setup Guide
+# 🐧 Rocky Linux 9 Initial Setup Tutorial
 
 This guide covers everything from installing **Rocky Linux 9** to performing essential desktop user configurations including **system updates**, **Korean input support**, and **Logitech receiver setup**.
 
@@ -81,4 +81,3 @@ After installation, launch **Solaar** to view and configure your Logitech wirele
 
 Rocky Linux 9 has been successfully installed and configured with essential settings.
 Let me know if you need help with additional software or system customization.
-

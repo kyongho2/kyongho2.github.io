@@ -1,8 +1,8 @@
 ---
-title: Java Environment Setup
+title: Java 환경 설정
 ---
 
-# ☕ Java 환경 설정 (Amazon Corretto 17 + Maven)
+# ☕ Java 환경 설정
 
 이 문서는 **Amazon Corretto 17 기반 Java 환경 설정**과 **Maven 설치 및 구성** 방법을 안내합니다.
 

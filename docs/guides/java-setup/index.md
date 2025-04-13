@@ -3,7 +3,7 @@ title: Java Environment Setup
 ---
 
 
-# ☕ Java Environment Setup (Amazon Corretto 17 + Maven)
+# ☕ Java Environment Setup
 
 This guide explains how to set up **Java 17 using Amazon Corretto** and configure **Maven** on your system.
 
