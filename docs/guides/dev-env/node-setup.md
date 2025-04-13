@@ -1,8 +1,8 @@
 ---
-title: Node.js Installation Guide
+title: Node.js Environment Setup
 ---
 
-# Node.js Installation Guide
+# Node.js Environment Setup
 
 This guide explains how to install and manage Node.js using Node Version Manager (NVM).
 By using NVM, you can easily install and manage multiple versions of Node.js.

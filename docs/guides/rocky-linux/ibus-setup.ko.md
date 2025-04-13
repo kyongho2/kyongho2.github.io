@@ -1,10 +1,10 @@
 ---
-title: IBus Setup Guide
+title: IBus 입력기 설치
 ---
 
-# IBus Input Method Setup Guide (for Rocky Linux)
+# IBus 입력기 설치
 
-## Install ibus-hangul
+## ibus-hangul 설치
 
 ```bash
 sudo dnf install -y ibus-hangul

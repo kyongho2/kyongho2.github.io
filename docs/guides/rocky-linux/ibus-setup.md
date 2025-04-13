@@ -1,10 +1,10 @@
 ---
-title: IBus 입력기 설치 가이드
+title: IBus Input Method Setup
 ---
 
-# IBus 입력기 설치 가이드
+# IBus Input Method Setup
 
-## ibus-hangul 설치
+## Install ibus-hangul
 
 ```bash
 sudo dnf install -y ibus-hangul

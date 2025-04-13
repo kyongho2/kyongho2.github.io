@@ -1,0 +1,5 @@
+---
+nav:
+    - ... | rocky-linux-install*.md
+    - ... | fcitx5-setup*.md
+    - ... | ibus-setup*.md

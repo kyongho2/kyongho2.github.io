@@ -2,13 +2,13 @@
 title: Rocky Linux 9 설치
 ---
 
-# 🐧 Rocky Linux 9 기본 설정 튜토리얼
+# 🐧 Rocky Linux 9 설치
 
 이 문서는 **Rocky Linux 9 설치**부터 **시스템 업데이트**, **한글 입력기 설정**, **Logitech 리시버 설정**까지 데스크탑 사용자가 기본적으로 설정해야 할 내용을 안내합니다.
 
 ---
 
-## 💿 Rocky Linux 9 설치
+## 💿 Rocky Linux 9 설치 진행
 
 1. **공식 웹사이트에서 ISO 이미지 다운로드**
    → [https://rockylinux.org](https://rockylinux.org)

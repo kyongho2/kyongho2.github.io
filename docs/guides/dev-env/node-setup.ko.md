@@ -1,8 +1,8 @@
 ---
-title: Node.js 환경 설치 가이드
+title: Node.js 환경 설치
 ---
 
-# Node.js 환경 설치 가이드
+# Node.js 환경 설치
 
 이 가이드는 Node.js를 설치하고 관리하기 위해 Node Version Manager (NVM)을 사용하는 방법을 안내합니다.
 NVM을 사용하면 여러 버전의 Node.js를 손쉽게 설치하고 관리할 수 있습니다.

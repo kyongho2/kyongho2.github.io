@@ -1,9 +1,9 @@
 ---
-title: Java Installation Guide
+title: Java Environment Setup
 ---
 
 
-# ☕ Java Installation Guide
+# ☕ Java Environment Setup
 
 This guide explains how to set up **Java 17 using Amazon Corretto** and configure **Maven** on your system.
 
@@ -67,7 +67,7 @@ Expected output:
 
 ---
 
-## 🧱 Install and Configure Maven
+## 🛠 Install and Configure Maven
 
 ### Install Maven
 
