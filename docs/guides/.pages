@@ -2,4 +2,4 @@
 nav:
     - ... | index*.md
     - Rocky Linux: rocky-linux
-    - Java Setup: java-setup
+    - Development Environment | dev-env
