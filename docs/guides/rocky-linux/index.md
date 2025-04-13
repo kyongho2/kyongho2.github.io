@@ -2,7 +2,6 @@
 title: Rocky Linux 9 Installation
 ---
 
-
 # 🐧 Rocky Linux 9 Initial Setup Tutorial
 
 This guide covers everything from installing **Rocky Linux 9** to performing essential desktop user configurations including **system updates**, **Korean input support**, and **Logitech receiver setup**.
