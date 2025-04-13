@@ -1,8 +1,8 @@
 ---
-title: Fcitx5 설정 가이드
+title: Fcitx5 입력기 설치 가이드
 ---
 
-# Fcitx5 입력기 설정 가이드 (Rocky Linux 기준)
+# Fcitx5 입력기 설치 가이드 (Rocky Linux 기준)
 
 ## ✅ 1. Fcitx5 및 언어 모듈 설치
 
