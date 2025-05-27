@@ -1,4 +1,4 @@
-# PostgreSQL 17 Installation Guide (Rocky Linux 9)
+# PostgreSQL 17 Installation Guide
 
 ---
 
