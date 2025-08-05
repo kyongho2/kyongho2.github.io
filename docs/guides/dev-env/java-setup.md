@@ -18,6 +18,19 @@ sudo rpm --import https://yum.corretto.aws/corretto.key
 sudo curl -Lo /etc/yum.repos.d/corretto.repo https://yum.corretto.aws/corretto.repo
 ```
 
+Or
+
+```bash
+sudo tee /etc/yum.repos.d/corretto.repo <<EOF
+[corretto]
+name=Amazon Corretto
+baseurl=https://yum.corretto.aws/corretto/epel/7/x86_64/
+enabled=1
+gpgcheck=1
+gpgkey=https://yum.corretto.aws/corretto.key
+EOF
+```
+
 ### Install Java
 
 ```bash
