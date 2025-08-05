@@ -37,6 +37,12 @@ EOF
 sudo dnf install -y java-17-amazon-corretto-devel
 ```
 
+Or
+
+```bash
+https://github.com/corretto/corretto-17/releases
+```
+
 ### Configure Java Version (optional)
 
 ```bash
