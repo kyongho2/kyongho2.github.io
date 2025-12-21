@@ -12,7 +12,7 @@ By using NVM, you can easily install and manage multiple versions of Node.js.
 First, you need to install NVM. Run the following command to install NVM:
 
 ```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 ```
 
 This command downloads and runs the NVM installation script. After installation, reload the shell environment to use the NVM command:
