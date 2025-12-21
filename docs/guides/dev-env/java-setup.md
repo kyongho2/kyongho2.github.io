@@ -28,7 +28,7 @@ https://github.com/corretto/corretto-17/releases
 After downloading the RPM file, install it using dnf:
 
 ```bash
-sudo dnf install java-17-amazon-corretto-devel-17.0.17.10-1.x86_64.rpm
+sudo dnf install -y java-17-amazon-corretto-devel-17.0.17.10-1.x86_64.rpm
 ```
 
 ### Configure Java Version (optional)
