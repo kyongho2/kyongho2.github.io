@@ -12,7 +12,7 @@ NVM을 사용하면 여러 버전의 Node.js를 손쉽게 설치하고 관리할
 먼저, NVM을 설치해야 합니다. 아래 명령어를 실행하여 NVM을 설치합니다:
 
 ```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 ```
 
 이 명령은 nvm 설치 스크립트를 다운로드하고 실행합니다. 설치가 완료되면, 쉘 환경을 다시 로드하여 nvm 명령어를 사용할 수 있도록 설정합니다.
