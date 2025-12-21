@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://kyongho2.github.io/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/blog/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/blog/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/blog/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/dev-env/java-setup/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/java-setup/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/java-setup/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/dev-env/node-setup/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/node-setup/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/node-setup/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/dev-env/postgresql-install/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/postgresql-install/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/postgresql-install/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/dev-env/postgresql-pgadmin-install/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/postgresql-pgadmin-install/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/postgresql-pgadmin-install/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/dev-env/postgresql-remove/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/postgresql-remove/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/postgresql-remove/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/rocky-linux/ibus-setup/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/rocky-linux/ibus-setup/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/rocky-linux/ibus-setup/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/guides/rocky-linux/rocky-linux-install/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/rocky-linux/rocky-linux-install/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/rocky-linux/rocky-linux-install/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/blog/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/blog/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/dev-env/java-setup/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/java-setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/java-setup/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/dev-env/node-setup/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/node-setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/node-setup/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/dev-env/postgresql-install/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/postgresql-install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/postgresql-install/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/dev-env/postgresql-pgadmin-install/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/postgresql-pgadmin-install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/postgresql-pgadmin-install/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/dev-env/postgresql-remove/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/dev-env/postgresql-remove/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/dev-env/postgresql-remove/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/rocky-linux/ibus-setup/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/rocky-linux/ibus-setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/rocky-linux/ibus-setup/"/>
+    </url>
+    <url>
+        <loc>https://kyongho2.github.io/ko/guides/rocky-linux/rocky-linux-install/</loc>
+        <lastmod>2025-12-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://kyongho2.github.io/ko/guides/rocky-linux/rocky-linux-install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://kyongho2.github.io/guides/rocky-linux/rocky-linux-install/"/>
+    </url>
+</urlset>
