@@ -10,17 +10,24 @@ title: Java 환경 설치
 
 ## 🔧 Amazon Corretto 17 설치
 
-### GPG 키 및 저장소 등록
-
-```bash
-sudo rpm --import https://yum.corretto.aws/corretto.key
-sudo curl -Lo /etc/yum.repos.d/corretto.repo https://yum.corretto.aws/corretto.repo
-```
-
 ### Java 설치
 
+**다운로드**
+
+Amazon Corretto 17 RPM 패키지를 공식 GitHub 릴리즈 페이지에서 다운로드합니다:
+
 ```bash
-sudo dnf install -y java-17-amazon-corretto-devel
+https://github.com/corretto/corretto-17/releases
+```
+
+> 시스템에 맞는 RPM 파일을 선택하여 다운로드합니다 (예: java-17-amazon-corretto-devel-17.0.17.10-1.x86_64.rpm).
+
+**설치**
+
+다운로드한 RPM 파일을 dnf 명령어로 설치합니다:
+
+```bash
+sudo dnf install -y java-17-amazon-corretto-devel-17.0.17.10-1.x86_64.rpm
 ```
 
 ### Java 버전 설정 (옵션)
