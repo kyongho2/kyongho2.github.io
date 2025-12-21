@@ -11,36 +11,24 @@ This guide explains how to set up **Java 17 using Amazon Corretto** and configur
 
 ## 🔧 Install Amazon Corretto 17
 
-### Import GPG Key and Repository
-
-```bash
-sudo rpm --import https://yum.corretto.aws/corretto.key
-sudo curl -Lo /etc/yum.repos.d/corretto.repo https://yum.corretto.aws/corretto.repo
-```
-
-Or
-
-```bash
-sudo tee /etc/yum.repos.d/corretto.repo <<EOF
-[corretto]
-name=Amazon Corretto
-baseurl=https://yum.corretto.aws/corretto/epel/7/x86_64/
-enabled=1
-gpgcheck=1
-gpgkey=https://yum.corretto.aws/corretto.key
-EOF
-```
-
 ### Install Java
 
-```bash
-sudo dnf install -y java-17-amazon-corretto-devel
-```
+**Download**
 
-Or
+Download the Amazon Corretto 17 RPM package from the official GitHub releases page:
 
 ```bash
 https://github.com/corretto/corretto-17/releases
+```
+
+> Select the appropriate RPM file for your system (for example, java-17-amazon-corretto-devel-17.0.17.10-1.x86_64.rpm).
+
+**Install**
+
+After downloading the RPM file, install it using dnf:
+
+```bash
+sudo dnf install java-17-amazon-corretto-devel-17.0.17.10-1.x86_64.rpm
 ```
 
 ### Configure Java Version (optional)
